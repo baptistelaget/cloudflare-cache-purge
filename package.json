@@ -1,0 +1,17 @@
+{
+  "name": "cloudflare-cache-purge",
+  "author": "OctHuber, Inc.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "dotenv": "^4.0.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {
+    "@types/request-promise": "^4.1.38"
+  }
+}
